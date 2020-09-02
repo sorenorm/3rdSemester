@@ -1,3 +1,3 @@
 # 3rdSemester
 
-##Hi Byurakn
+This is Søren Orm Hansen's repository for assignments in Experimental Methods 3
